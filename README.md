@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hallo dort 👋
+
+Hallo ich bin der **Ognjen** und habe am [Theater Aachen](https://theateraachen.de/de_DE/home?p=1)  gearbeitet.
+Ich mag es __ kursiv__ oder untermalt `:-)`
+Ich mache gerne `Müsli` zu Morgenessen, dies geht wie folgt:
+
+1. Ins Rewe gehen 
+2. Müsli aussuchen
+3. (Optional) An die Kasse und zahlen
+
 
 <!--
 **ognjenkoldzic/ognjenkoldzic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
