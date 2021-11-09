@@ -11,6 +11,8 @@ Ich mache gerne `Müsli` zum Morgenessen, dies geht wie folgt:
 ![Müsli](https://img.rewe-static.de/0974656/7891510_digital-image.png?output-quality=60&fit=inside|420:420&output-format=image/webp&background-color=ffffff)
 ## Wenn man es noch Süsser mag
 
+![Schoko-Müsli von Vitalis](./vitalis-schoko-m-sli-klassisch-vorratspack-1-5kg.jpg)
+
 
 
 
