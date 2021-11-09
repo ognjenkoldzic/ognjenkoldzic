@@ -1,16 +1,20 @@
 ### Hallo dort 👋
 
-Hallo ich bin der **Ognjen** und habe am [Theater Aachen](https://theateraachen.de/de_DE/home?p=1)  gearbeitet.
-Ich mag es __ kursiv__ oder untermalt `:-)`
-Ich mache gerne `Müsli` zu Morgenessen, dies geht wie folgt:
+Hallo ich bin der **Ognjen** und habe am [Theater Aachen](https://theateraachen.de/de_DE/home?p=1) gearbeitet.
+<br>Ich mag es *kursiv* oder untermalt `:-)`<br>
+Ich mache gerne `Müsli` zum Morgenessen, dies geht wie folgt:
 
 1. Ins Rewe gehen 
 2. Müsli aussuchen
-3. (Optional) An die Kasse und zahlen
+3. (Optional) An die Kasse und zahlen 😄
+
+![Müsli](https://img.rewe-static.de/0974656/7891510_digital-image.png?output-quality=60&fit=inside|420:420&output-format=image/webp&background-color=ffffff)
+## Wenn man es noch Süsser mag
 
 
-<!--
-**ognjenkoldzic/ognjenkoldzic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+<!-- **ognjenkoldzic/ognjenkoldzic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
