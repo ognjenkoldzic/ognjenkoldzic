@@ -14,6 +14,8 @@ Ich mache gerne `Müsli` zum Morgenessen, dies geht wie folgt:
 ![Schoko-Müsli von Vitalis](./vitalis-schoko-m-sli-klassisch-vorratspack-1-5kg.jpg)
 
 <br>Meine Mutter mag auch **Müsli**<br>
+Das bin übrigens ICH: <br> ![Foto von Ognjen](./Foto_Ognjen_alt.jpeg)
+
 
 
 <!-- **ognjenkoldzic/ognjenkoldzic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
