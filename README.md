@@ -4,7 +4,7 @@ Hallo ich bin der **Ognjen** und habe am [Theater Aachen](https://theateraachen.
 <br>Ich mag es *kursiv* oder untermalt `:-)`<br>
 Ich mache gerne `Müsli` zum Morgenessen, dies geht wie folgt:
 
-1. Ins Rewe gehen 
+1. Ins Rewe gehen oder Aldi
 2. Müsli aussuchen
 3. (Optional) An die Kasse und zahlen 😄
 
