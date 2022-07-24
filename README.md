@@ -1,8 +1,8 @@
-### Hallo dort 👋
+### Hello 👋
 
-Hallo ich bin der **Ognjen** und habe am [Theater Aachen](https://theateraachen.de/de_DE/home?p=1) gearbeitet.
+My name is **Ognjen**.
 
-Das bin übrigens ICH: <br> ![Foto von Ognjen](./Foto_Ognjen_alt.jpeg)
+This is a pretty version of me: <br> ![Foto von Ognjen](./Foto_Ognjen_alt.jpeg)
 
 
 
